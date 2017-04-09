@@ -5,7 +5,7 @@ int main()
 	int i, b, n;
 	int a[10];
 	for (i = 0; i <= 8; i++)
-		a[i] = i*3;
+		a[i] = i * 3;
 	scanf("%d", &b);
 	for (i = 0; i <= 9; i++) {
 		if (b <= a[i]) {
