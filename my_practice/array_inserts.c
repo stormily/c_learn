@@ -15,7 +15,9 @@ int main()
 			a[i] = b;
 			break;
 		}
-		else a[9] = b;
+		else {
+			a[9] = b;
+		｝
 	}
 	for (i = 0; i <= 9; i++)
 		printf("%d\n", a[i]);
