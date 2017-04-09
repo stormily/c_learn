@@ -7,7 +7,7 @@ int main()
 	scanf("%d", &b);
 	for (i = 0; i <= 9; i++){
 		if (b == a[i]) {
-			n = i+1;
+			n = i + 1;
 			break;
 		}
 	}
