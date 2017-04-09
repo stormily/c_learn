@@ -1,4 +1,5 @@
 #include<stdio.h>
+
 int main()
 {
 	int a[10] = { 1,34,2,53,63,45,34,45,23,4 };
