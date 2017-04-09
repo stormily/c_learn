@@ -14,7 +14,7 @@ int main()
 			a[i + 1] = a[i];
 			a[i] = b;
 			break;
-		}else {
+		} else {
 			a[9] = b;
 		｝
 	}
