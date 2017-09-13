@@ -22,7 +22,7 @@ int main()
 		printf("File cannot be opened/n");
 		exit(0);
 	}
-	else
+	 else
 		printf("File opened for writing/n");
 		fclose(fp);
 
